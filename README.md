@@ -28,3 +28,5 @@ The below reports gives us answers to these questions and this will be very usef
 
 
 ![churn4](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/ee699ff9-a9ad-4d27-9d14-bdf91983d251)
+
+The dashboard could not be published to the web as the PowerBI only allows dashboards to be shared on paid accounts.
