@@ -16,17 +16,14 @@ The PowerBi reports gives insights into which customers are leaving. The insight
 
 The below reports gives us answers to these questions and this will be very useful in making decisons that would help prevent customers from churning and help focus on acquiring and retaining the right customers.
 
+![1](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/6536431a-248d-4f3a-afca-00a152f24467)
 
 
-![churn1](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/b8594205-2552-46d4-9c3d-68dfddcdda59)
+![2](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/a93dcfbf-0ebb-49ee-8c1d-75800a5e0c6b)
 
+![3](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/57aae087-1c41-48c7-b4f4-d7d12232a0c3)
 
-![churn2](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/b198616f-c09f-43ba-8991-bd5c06a8df3b)
+![4](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/3b878071-fc9e-4a08-85c2-2eb13922542a)
 
-
-![image](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/bde9f377-2c47-4262-9c6f-c2551602b0cc)
-
-
-![churn4](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/ee699ff9-a9ad-4d27-9d14-bdf91983d251)
 
 The dashboard could not be published to the web as the PowerBI only allows dashboards to be shared on paid accounts.
