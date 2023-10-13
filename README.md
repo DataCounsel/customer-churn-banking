@@ -16,7 +16,8 @@ The PowerBi reports gives insights into which customers are leaving. The insight
 
 The below reports gives us answers to these questions and this will be very useful in making decisons that would help prevent customers from churning and help focus on acquiring and retaining the right customers.
 
-![1](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/6536431a-248d-4f3a-afca-00a152f24467)
+
+![churn1_new](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/6df65bc3-401e-4c74-9dd7-a7c480002292)
 
 
 ![2](https://github.com/DataCounsel/customer-churn-banking/assets/71335870/a93dcfbf-0ebb-49ee-8c1d-75800a5e0c6b)
